@@ -5,3 +5,7 @@
 ## Flourish Visualization #1
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5298138"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Flourish Visualization #2
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5298312"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
